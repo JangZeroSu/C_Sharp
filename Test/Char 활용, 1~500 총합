@@ -1,0 +1,31 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace test_05
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            
+            int j = 65;
+            while (j < 90)
+            {
+                Console.Write(((char)j).ToString());
+                j++;
+            }
+            Console.WriteLine();
+            
+
+            int sum = 0;
+            for (int i = 1; i < 101; i++)
+            {
+                sum = sum + i;
+            }
+            Console.Write($"1 ~ 500 까지의 총합 : {sum}");
+        }
+    }
+}
