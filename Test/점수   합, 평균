@@ -1,0 +1,29 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace test_02
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("국어 : ");
+            int kor = Int32.Parse(Console.ReadLine());
+
+            Console.Write("영어 : ");
+            int eng = Int32.Parse(Console.ReadLine());
+
+            Console.Write("수학 : ");
+            int math = Int32.Parse(Console.ReadLine());
+
+            int sum = kor + eng + math;
+            double avg = sum / 3.0;
+
+            Console.WriteLine("합 : " + sum);
+            Console.WriteLine($"평균 : {avg}");
+        }
+    }
+}
