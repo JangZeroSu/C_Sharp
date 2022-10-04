@@ -1,0 +1,187 @@
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\bin\Debug\Coke_mainPage.exe.config
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\bin\Debug\Coke_mainPage.exe
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\bin\Debug\Coke_mainPage.pdb
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Form1.resources
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Properties.Resources.resources
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.csproj.CopyComplete
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.exe
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.pdb
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Forms.UserControl1.resources
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Forms.UserControl2.resources
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Forms.UserControl3.resources
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Forms.UserControl4.resources
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\bin\Debug\System.Buffers.dll
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\bin\Debug\System.Memory.dll
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\bin\Debug\System.Buffers.xml
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\bin\Debug\System.Memory.xml
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\source\repos\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Forms.UserControl5.resources
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Form1.resources
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Forms.UserControl1.resources
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Forms.UserControl2.resources
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Forms.UserControl4.resources
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Forms.UserControl5.resources
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Properties.Resources.resources
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.exe
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.pdb
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\bin\Debug\Coke_mainPage.exe.config
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\bin\Debug\Coke_mainPage.exe
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\bin\Debug\Coke_mainPage.pdb
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Forms.UserControl3.resources
+C:\Users\Admin\Desktop\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.csproj.CopyComplete
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\Coke_mainPage.exe.config
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\Coke_mainPage.exe
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\Coke_mainPage.pdb
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Form1.resources
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Forms.UserControl1.resources
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Forms.UserControl2.resources
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Forms.UserControl3.resources
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Forms.UserControl4.resources
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Forms.UserControl5.resources
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Properties.Resources.resources
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.csproj.CopyComplete
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.exe
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.pdb
+C:\Users\Admin\Desktop\콜라\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Form2.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\Coke_mainPage.exe.config
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\Coke_mainPage.exe
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\Coke_mainPage.pdb
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.Memory.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.Memory.xml
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Form1.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Form2.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Forms.UserControl1.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Forms.UserControl2.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Forms.UserControl3.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Forms.UserControl4.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Forms.UserControl5.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Properties.Resources.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.csproj.CopyComplete
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.exe
+C:\Users\Admin\Documents\카카오톡 받은 파일\Coke_mainPage_0818 (3)\Coke_mainPage_0818\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.pdb
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\bin\Debug\Coke_mainPage.exe.config
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\bin\Debug\Coke_mainPage.exe
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\bin\Debug\Coke_mainPage.pdb
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Form1.resources
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Form2.resources
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Forms.UserControl2.resources
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Forms.UserControl3.resources
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Forms.UserControl4.resources
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Forms.UserControl5.resources
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.Properties.Resources.resources
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.csproj.CopyComplete
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.exe
+C:\Users\Admin\Desktop\최신판\서버\Coke_mainPage\Coke_mainPage\obj\Debug\Coke_mainPage.pdb
