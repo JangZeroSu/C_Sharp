@@ -16,3 +16,6 @@ public class Solution {
         return answer;
     }
 }
+
+////
+return str1.Contains(str2) ? 1 : 2;
